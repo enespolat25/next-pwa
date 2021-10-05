@@ -2,6 +2,10 @@
 
 [Demo Page](https://next-pwa-app.netlify.app/)
 
+[Reference](https://dev.to/byteslash/how-to-create-a-pwa-with-next-js-4dbm)
+
+[Youtube Video](https://www.youtube.com/watch?v=ARNN_zmrwcw)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
